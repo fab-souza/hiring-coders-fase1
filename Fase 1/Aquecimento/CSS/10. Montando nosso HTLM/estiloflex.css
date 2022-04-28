@@ -1,0 +1,14 @@
+.flex {
+    display: flex;
+}
+
+.flex div {
+    border: 1px solid #000;
+    margin: 15px;
+    flex-basis: 100%; /* Comando deixa os blocos com os mesmos tamanhos */
+}
+
+.flex img {
+    max-width: 250px;
+}
+
